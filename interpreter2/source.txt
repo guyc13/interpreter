@@ -1,0 +1,127 @@
+P1-
+1 - compositr structure pattern
+1 - interpreter functional pattern
+1 - binaric expresstion
+
+P2-
+UML - sequence diagram
+binaric expresstion
+
+P3-
+UML- activity diagram
+binaric expresstion
+stack
+queue
+
+
+P4-
+1 - factory
+1 - class new instance
+1 - creator
+1 - internal interface
+1 - creat new object via HashMap
+2 - funtional interface  + lambda expression 
+2 - internal interface
+2 - injected function in runtime
+
+
+P5-
+1 - object Adapter
+2 - decorator , string builder , internal interface
+2 - object adapter
+
+P6-
+1 - client socket
+1 - xml encoder
+1 - serialization
+2 - save stream to a file
+
+P7-
+1 - composite
+2 - Threads
+2 - UML
+
+P8-
+1 - iterator , roundlist iterator , object adapter , listiterator()
+
+P9-
+1 - builer (inside class goblin)
+2 - abstract factory
+
+
+
+P10-
+1 - observer, observable in the object
+1 - generics
+1 - self binding 
+2 - comperator ,priority queue, internal class, internal interface , command
+
+
+test 1:
+1 - obsevrvable
+1 - serilizaion
+1 - client socket , XML encoder
+2 - conroller, command,  priority queue , inner class ,  inner interface
+3 - object adapter, pushable
+
+test 2:
+1 - comparable
+1.1 - runnable ,  
+2 - observer and observble inthe same object
+3 -comparable generic
+
+test 3:
+1 - Stack implimantaion by Hashmap and List
+2 - decorator , object adapter
+
+test 4:
+1 - Threads ,predicate, BlockingQueue
+2 - iterators, UML , compare, hashcode 
+3 - roundlist, iterator by iterable interface
+
+
+test 6:
+1 - Hashcode
+2 - observer (concreat) implemation on oberver 
+
+test 8:
+4 - delegate and event as an implemation of observer 
+4 - lambda expresstion
+
+
+test 9:
+1 - blockingqueue - comparator in lmbda expression, Threads , command
+
+
+
+test 10:
+1 - scanner
+1 - bufferedreader
+1 - sort
+1 - one liner if
+1 - coperator(lambda expression), sort, map to array   
+
+2 - observable ,observer by container , comperator by lmbda
+
+
+f1-
+1 - biconsumer lambda expression
+1 - 2 way hashmaps
+1 - Function -functional interface
+
+2 - flywight
+2 - graphs
+2 - hashmap
+2 - interfrater ?
+2 - Array
+
+
+
+f2-
+1 - consumer
+1 - builder
+1 - queue
+1 - generic
+
+2 - comparator
+2 - seperator 
